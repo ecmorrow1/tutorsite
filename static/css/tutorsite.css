@@ -1,15 +1,17 @@
 .jumbotron {
     
+    /* background-image: url("../images/pythagoras.jpg"); */
     background-size: 100% 100%;
     text-align: center;
-    color: #fff;
-    background-color: #fff;
+    color: #000;
+    background-color: #b996db;
 }
 
 body {
 
     color: #000;
-    background-color: #b996db;
-    /* background-color: #630330; */
+    /* background-color: #b996db; */
+    background-size: 100% 100%;
+    background-image: url("../images/pythagoras.jpg");
 }
 
